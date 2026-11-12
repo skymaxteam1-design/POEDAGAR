@@ -1,0 +1,6 @@
+{
+  "name": "POEDAGAR & Atelier Horlogerie",
+  "description": "Luxury minimalist timepieces, chic lanyard pocket watches, verified customer reviews, editorial lookbook, and AI photography studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
